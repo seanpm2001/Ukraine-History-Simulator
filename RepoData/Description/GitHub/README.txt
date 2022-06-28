@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Ukraine History Simulator is a GoDot-powered game where you can be in control of the country of Ukraine throughouts its entire history (from 45000 BCE to present)
