@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). If you use this software (Ukraine History Simulator) please cite your usage (education, personal use, entertainment, etc.) we also encourage you to help Ukraine in any way possible. [Data set]. https://doi.org/10.0000/00000
