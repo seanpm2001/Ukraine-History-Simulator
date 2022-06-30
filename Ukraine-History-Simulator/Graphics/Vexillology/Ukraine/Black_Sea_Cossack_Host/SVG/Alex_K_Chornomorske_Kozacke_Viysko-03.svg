@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg 
+	 xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" i:viewOrigin="14.1201 715.0923" i:rulerOrigin="342 252" i:pageBounds="-342 1044 954 -252"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="283.222" height="110.111" viewBox="0 0 283.222 110.111" overflow="visible" enable-background="new 0 0 283.222 110.111"
+	 xml:space="preserve">
+	<metadata>
+		<variableSets  xmlns="&ns_vars;">
+			<variableSet  varSetName="binding1" locked="none">
+				<variables></variables>
+				<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;"></v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw  xmlns="&ns_sfw;">
+			<slices></slices>
+			<sliceSourceBounds  y="604.981" x="14.12" width="283.222" height="110.111" bottomLeftOrigin="true"></sliceSourceBounds>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+			<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+			</i:pgfRef>
+		</foreignObject>
+		<g i:extraneous="self">
+			<g id="レイヤー_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+				<g>
+					<g>
+						<g>
+							<g>
+								<path i:knockout="Off" fill="#2282BC" d="M6.185,7.134H0.25v47.892h141.064L274.486,7.134H6.185"/>
+								<path i:knockout="Off" fill="#FEB200" d="M0.25,102.977h5.935h268.301L141.314,55.085H0.25V102.977"/>
+								
+									<path i:knockout="Off" fill="none" stroke="#7B888E" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+									M280.124,12.475c1.721-1.365,2.67-2.67,2.849-4.035c0.178-1.484,0-2.908-0.594-4.214c-0.653-1.246-1.365-2.196-2.255-2.849
+									c-0.771-0.593-1.662-1.009-2.611-1.127H6.185v6.884H0.25v47.892v0.06v47.892h5.935v6.884h271.328
+									c0.949-0.119,1.84-0.534,2.611-1.127c0.89-0.653,1.602-1.603,2.255-2.849c0.594-1.306,0.772-2.671,0.594-4.214
+									c-0.178-1.365-1.128-2.67-2.849-4.035c-0.237-0.178-0.475-0.356-0.712-0.534L162.56,55.085
+									c-0.06-0.06-0.119-0.06-0.119-0.06h0.119l116.851-42.017C279.648,12.832,279.886,12.653,280.124,12.475"/>
+							</g>
+							<g>
+								<g>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.145"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M76.746,25.531
+										l-5.697,28.664l-0.118,0.475"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.195
+										v-1.424V24.938"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M82.503,27.252
+										L71.108,54.67l-0.06,0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.848
+										v-0.237"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.195
+										l0.178,0.416v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.67
+										v0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.848
+										v-0.237l0.118-0.416l0.06,0.475l0.06,0.297"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.611
+										l0.178,0.237"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.848
+										l-0.178-0.237l-0.178-0.297L54.077,29.626"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026
+										v-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.026
+										v0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+										h-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+										l-0.059-0.06h-0.06l-0.119-0.119l-25.34-16.914"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026
+										h0.06h0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.085
+										l-0.06-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026
+										l0.06,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.026
+										l-0.119-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										v-0.119v-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										h0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										h0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026
+										h-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.145
+										v-0.119l-0.059-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M92.414,33.958
+										L71.287,55.026l-0.06,0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.026
+										h0.119h0.06h0.237"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.085
+										l0.059,0.059h0.119h0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,54.848
+										l0.06,0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.026
+										h-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.026
+										l-0.059-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,54.967
+										l-0.06,0.059l-0.06,0.06v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.085
+										v0.059h0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.085
+										v-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.085
+										l-0.06-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+										h0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.085
+										h0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+										l-0.06-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.145
+										l-0.296,0.416"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.263
+										l-0.06-0.059l-0.06-0.06v-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+										l0.06,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.204
+										h-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+										l0.06,0.06v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+										v0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+										l-0.297,0.356"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+										l-0.059-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.263
+										l0.059,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M96.212,38.587
+										L71.524,55.026l-0.178,0.119l-0.059,0.06l-0.06,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.145
+										l0.059,0.06h0.06l0.178,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.145
+										v0.06v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.263
+										l-0.059-0.059v-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.323
+										l-0.06,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.382
+										v-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+										v0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.5
+										l0.297-0.237l-0.06-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.263"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.263
+										h-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.263
+										l0.06,0.06v0.06v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.204
+										l0.059,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+										v-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.323
+										h-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.204
+										v-0.06h0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M65.233,25.234
+										l5.519,27.537l0.296,1.424"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+										h-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.085
+										v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.145
+										h-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+										v-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.967
+										l-0.059-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.026
+										H70.99"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.026
+										v-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.967
+										l0.059-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.085
+										H70.99"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.848
+										l0.059,0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,54.967
+										l-0.119-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.049,54.848
+										l-0.118-0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.441"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.382
+										h0.06v0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+										h0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.5
+										l-0.06,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.441
+										l-0.475,0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.56
+										l0.06-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.026
+										l-0.119,0.534"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+										v-0.534"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+										l0.237-0.475"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.5
+										l0.356-0.118"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.382
+										l0.06,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.195
+										v0.416"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.611
+										l-0.178-0.297"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.405,55.145
+										l0.237,0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.204
+										h-0.059l-0.119,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.323
+										h0.059l0.119-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.464,55.263
+										l0.178,0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.524,55.026
+										l-0.119,0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M72.058,55.263
+										l1.187-0.237"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.524,55.026
+										h0.475"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.999,55.026
+										l-0.356,0.178"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.204
+										l0.416,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.382
+										l0.416-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.382
+										h-0.178l-0.119,0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M96.687,72.236
+										L71.464,55.382l-0.119-0.06l-0.119-0.06"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.999,55.026
+										h1.247"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.346,55.441
+										h-0.059"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.346,55.441
+										l-0.059-0.119"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M71.168,54.967
+										l16.617-24.866"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										l-28.249-11.75"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,54.848
+										L49.329,33.424"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M59.417,26.896
+										l11.335,27.299"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M45.412,72.533
+										l25.34-16.973"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										l-30.147-5.994"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M40.724,61.495
+										l30.029-5.935"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+										L42.504,67.251"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M59.062,83.868
+										L70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.026
+										h-30.8"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M83.037,83.809
+										l-11.75-28.367"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M70.752,86.182
+										V55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M64.818,85.589
+										l5.935-30.029"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M88.319,80.9
+										L71.287,55.441"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M77.28,85.708
+										l-5.994-30.266"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M49.091,77.221
+										L70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M53.78,81.019
+										L70.752,55.56"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M101.612,55.026
+										H73.245"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M73.245,55.026
+										l27.536-5.46"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M92.948,76.984
+										L71.346,55.441"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M72.058,55.263
+										l29.02,5.816"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M99.06,43.869
+										L71.999,55.026"/>
+									<path i:knockout="Off" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" d="M99.417,66.895
+										L71.643,55.382"/>
+									<g>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.382
+											h-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.323
+											l0.059-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.346,55.263
+											l0.238,0.06l0.415,0.119l0.119,0.059l27.121,7.893"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M96.508,41.495
+											l-24.866,13.59l-0.119,0.059l-0.178,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+											h0.119l0.119,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+											v0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441
+											v-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.405,55.382
+											h-0.06l-0.119,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.524,55.145
+											l-0.178,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M94.135,73.72
+											L71.464,55.5l-0.119-0.118l-0.119-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.405,55.382
+											l-0.119-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+											h0.06l0.059-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.583,55.323
+											l-0.178,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.405,55.382
+											l0.237,0.118"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.5
+											h-0.178h-0.178"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.085
+											l-0.119,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.346,55.263
+											l0.238,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.5
+											l0.356-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.999,55.441
+											l0.119,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.524,55.145
+											l0.416,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.939,55.204
+											l-0.356,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.583,55.323
+											l0.415,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.729
+											l0.119-0.415l7.893-26.884"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.729
+											l-0.119-0.475"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.907
+											l-0.119-0.237"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.907
+											l0.059,0.178l0.059,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.026
+											v-0.237l-0.06-0.475l-0.119,0.415l-0.059,0.178"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.026
+											v-0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.026
+											l-0.06,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+											v0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.907
+											l0.059,0.178"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.026
+											v-0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.729
+											l0.059,0.238"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,54.967
+											l-0.059,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,54.967
+											l0.119-0.178l13.175-25.222"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,54.729
+											l-0.059,0.178"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.085
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.026
+											v-0.059v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,54.907
+											v-0.178V54.67"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.145
+											l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.085
+											v0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+											v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+											h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.026
+											l-0.06,0.119h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+											h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,54.967
+											l0.06,0.178"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145
+											h0.059h0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+											h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263
+											l-0.356,0.297"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263
+											v-0.059l-0.06-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+											v0.059l0.06,0.06v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.204
+											l-0.059,0.059h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.263"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.323
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.323
+											l-0.06-0.06h-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.204
+											v0.059v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.263
+											l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+											h-0.059l-0.06-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.026
+											l0.059,0.119v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.204
+											l0.06,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.145
+											v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.145
+											H70.99"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.145
+											h0.059l-0.119-0.059l-0.06-0.119L48.023,36.688"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145
+											l0.059,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.204
+											l-0.059-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145
+											l0.059,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.145"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.145
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.145
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.382
+											v-0.06l-0.06-0.06l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06l0.296-0.356"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,55.263
+											l0.06,0.06v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.323
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323
+											h-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.323
+											l0.059,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.524,55.145
+											h-0.237h-0.06h-0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.382
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.323"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.382
+											l0.059,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441
+											l-0.059-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441
+											v-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.382
+											L70.931,55.5l-0.178,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.145
+											v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.049,55.204
+											l0.06,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.085
+											l0.06,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.145
+											h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.026
+											l0.059,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.145
+											h0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.085
+											l0.059,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.085"
+											/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.145
+											l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,55.085
+											l-0.06-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,54.907
+											l0.119,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,54.907
+											l-0.119-0.178l-0.178-0.356L56.984,29.448"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,54.254
+											l-0.06,0.416"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,54.67
+											l-0.178-0.297"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+											v0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.56
+											h-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											v-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											h-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.693,55.62
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											l-13.59,25.993"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.5
+											h-0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M85.352,81.316
+											L71.405,55.738L71.287,55.5l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.5
+											l0.119,0.237"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.5"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.931,55.5
+											l-0.119,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.287,55.5
+											l-0.06-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+											l0.059-0.475"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.56
+											l0.416-0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441
+											V55.5"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.5
+											l-0.475,0.06"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M74.432,84.936
+											L71.227,55.5v-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.99,55.145
+											l-0.237,0.416"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.56
+											l0.119-0.416"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.204
+											l0.06-0.06l21.958-18.397"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.227,55.441
+											l0.06,0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.346,55.263
+											l-0.119-0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.939,55.204
+											l1.246,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M73.186,55.323
+											l-1.187,0.119"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.108,54.314
+											l-0.119-1.306l-2.967-26.884"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.871,54.254
+											l0.119-1.246l2.314-26.646"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M44.997,69.684
+											h0.059"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M45.056,69.684
+											L70.752,55.62"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.085
+											l-28.308-8.249"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M48.26,74.432
+											L70.693,55.62"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.693,55.62
+											L52.355,78.467"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M41.555,58.765
+											l29.198-3.205"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M42.741,64.403
+											l28.011-8.783"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.026
+											L44.759,41.495"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,55.085
+											l-29.494-2.552"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M62.503,83.75
+											l8.249-28.13"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.752,55.62
+											l-2.611,29.257"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M70.812,54.907
+											L52.118,32.653"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M62.325,27.252
+											l8.546,27.002"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M100.247,57.697
+											l-27.062-2.374"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M73.186,55.323
+											l26.765-2.908"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M90.099,77.933
+											L71.287,55.5"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M80.07,83.63
+											L71.227,55.5"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.643,55.5
+											l25.578,13.293"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M98.764,46.777
+											l-26.824,8.427"/>
+										<path i:knockout="Off" fill="none" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round" d="M71.168,55.026
+											l17.981-22.313"/>
+									</g>
+								</g>
+								<g>
+									<path i:knockout="Off" fill="#E81B18" d="M91.583,55.204l3.501-8.19l-20.533,4.273l4.213-20.534l-8.13,3.442l-8.19-3.442
+										l4.214,20.534l-20.475-4.273l3.442,8.19l-3.442,8.189l20.475-4.273l-4.214,20.534l8.19-3.442l8.13,3.442l-4.213-20.534
+										l20.533,4.273L91.583,55.204"/>
+								</g>
+							</g>
+							<g>
+								<path i:knockout="Off" fill="#FFD500" d="M279.411,13.009c0.237-0.178,0.475-0.356,0.712-0.534
+									c1.721-1.365,2.67-2.67,2.849-4.035c0.178-1.484,0-2.908-0.594-4.214c-0.653-1.246-1.365-2.196-2.255-2.849
+									c-0.771-0.593-1.662-1.009-2.611-1.127H6.185v6.884h268.301L141.314,55.026h0.119c-0.06,0.06-0.119,0.06-0.119,0.06
+									l133.171,47.892H6.185v6.884h271.328c0.949-0.119,1.84-0.534,2.611-1.127c0.89-0.653,1.602-1.603,2.255-2.849
+									c0.594-1.306,0.772-2.671,0.594-4.214c-0.178-1.365-1.128-2.67-2.849-4.035c-0.237-0.178-0.475-0.356-0.712-0.534
+									L162.56,55.085c-0.06-0.06-0.119-0.06-0.119-0.06h0.119L279.411,13.009"/>
+								
+									<path i:knockout="Off" fill="none" stroke="#7B888E" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+									M280.124,12.475c1.721-1.365,2.67-2.67,2.849-4.035c0.178-1.484,0-2.908-0.594-4.214c-0.653-1.246-1.365-2.196-2.255-2.849
+									c-0.771-0.593-1.662-1.009-2.611-1.127H6.185v6.884H0.25v95.843h5.935v6.884h271.328c0.949-0.119,1.84-0.534,2.611-1.127
+									c0.89-0.653,1.602-1.603,2.255-2.849c0.594-1.306,0.772-2.671,0.594-4.214c-0.178-1.365-1.128-2.67-2.849-4.035
+									c-0.237-0.178-0.475-0.356-0.712-0.534L162.56,55.085c-0.06-0.06-0.119-0.06-0.119-0.06h0.119l116.851-42.017
+									C279.648,12.832,279.886,12.653,280.124,12.475"/>
+								<g>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M51.703,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M247.78,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M254.724,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M252.409,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M257.038,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M240.956,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M245.584,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M243.27,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M238.641,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M236.326,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M257.038,21.081v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M252.409,22.742v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M254.724,21.911v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M250.095,23.573v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M282.378,4.345l-2.314,0.712l-2.314,0.712l-2.314,0.712l-2.314,0.653"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M275.435,0.25v6.231v7.953"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M280.064,1.318v3.739v7.478"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M277.75,0.309v5.46v7.834"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M273.121,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M263.981,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M266.177,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M268.492,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M270.806,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M259.353,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M261.667,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M261.667,19.418v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M259.353,20.25v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M268.492,16.926V9.33"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M266.177,17.757v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M263.981,18.588v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M273.121,15.264V7.668"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M270.806,16.095V8.499"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M282.378,10.042V4.345"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M270.806,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M263.981,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M259.353,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M261.667,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M266.177,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M268.492,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M282.378,105.767l-2.314-0.772l-2.314-0.831l-2.314-0.831l-2.314-0.831"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M280.064,108.852v-3.857v-7.418"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M275.435,109.861v-6.528v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M282.378,100.069v5.697"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M277.75,109.861v-5.697v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M273.121,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M270.806,101.671v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M273.121,102.502v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M268.492,100.84v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M266.177,100.01v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M261.667,98.348v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M263.981,99.179v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M259.353,97.577v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M254.724,95.856V88.2"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M257.038,96.687v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M247.78,93.422v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M250.095,94.194v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M252.409,95.025V87.37"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M243.27,91.761v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M240.956,90.93v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M245.584,92.592v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M245.584,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M238.641,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M236.326,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M240.956,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M243.27,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M254.724,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M247.78,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M250.095,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M252.409,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M257.038,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M238.641,90.099v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M236.326,89.268v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M243.27,26.006V18.41"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M245.584,25.175v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M247.78,24.404v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M240.956,26.837v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M236.326,28.499v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M238.641,27.667v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M155.676,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M153.064,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M157.99,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M162.619,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M160.305,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M141.492,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M150.75,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M146.121,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M139.178,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M148.436,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M143.807,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M178.761,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M176.447,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M183.39,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M181.076,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M185.705,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M164.934,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M171.877,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M174.132,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M169.563,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M167.248,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M210.927,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M199.473,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M201.788,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M206.416,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M204.102,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M208.73,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M190.333,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M194.844,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M192.529,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M188.019,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M197.158,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M227.128,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M224.813,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M234.012,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M231.697,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M229.383,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M220.185,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M217.87,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M222.499,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M215.555,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M213.241,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M56.332,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M63.216,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M60.96,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M58.646,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M65.53,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M44.759,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M54.017,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M51.703,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M49.388,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M47.074,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M90.871,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M81.613,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M79.417,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M83.927,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M88.556,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M86.242,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M70.159,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M74.788,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M77.103,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M67.844,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M72.474,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M104.698,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M109.327,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M107.013,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M111.642,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M113.956,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M97.814,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M102.384,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M100.069,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M95.5,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M93.185,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M127.724,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M132.353,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M130.039,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M134.667,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M136.863,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M120.781,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M125.41,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M123.095,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M116.271,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M118.466,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M67.844,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M72.474,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M70.159,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M74.788,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M77.103,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M86.242,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M79.417,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M81.613,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M83.927,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M88.556,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M90.871,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M44.759,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M47.074,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M250.095,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M49.388,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M54.017,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M60.96,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M65.53,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M63.216,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M58.646,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M56.332,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M123.095,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M120.781,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M118.466,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M116.271,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M125.41,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M136.863,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M134.667,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M132.353,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M130.039,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M127.724,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M93.185,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M100.069,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M97.814,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M95.5,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M102.384,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M113.956,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M111.642,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M109.327,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M107.013,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M104.698,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M215.555,35.976V28.32"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M213.241,36.807v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M220.185,34.314v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M217.87,35.145V27.49"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M222.499,33.483v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M224.813,32.653v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M227.128,31.822v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M208.73,38.409v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M210.927,37.638v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M199.473,41.732v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M194.844,43.394v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M201.788,40.902v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M197.158,42.563v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M204.102,40.071v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M206.416,39.24v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M190.333,44.997V37.4"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M188.019,45.887v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M192.529,44.225v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M206.416,78.527v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M208.73,79.358v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M210.927,80.129v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M199.473,76.034v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M201.788,76.865V69.15"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M204.102,77.696v-7.715"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M188.019,71.88v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M192.529,73.482v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M194.844,74.313v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M197.158,75.144v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M190.333,72.711v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M215.555,81.791v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M217.87,82.622v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M213.241,80.96v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M169.563,52.474v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M167.248,53.364v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M171.877,51.643v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M174.132,50.872v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M185.705,46.717v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M181.076,48.379v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M183.39,47.548v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M176.447,50.041v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M178.761,49.21v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M140.187,55.026h3.62h2.314h2.315h2.314h2.314h2.611h2.314h2.314h2.314"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M155.676,60.249v-5.223v-5.163"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M153.064,59.299v-4.273v-4.213"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M162.619,62.741v-7.715v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M160.305,61.91v-6.884v-6.825"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M157.99,61.079v-6.053v-5.994"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M146.121,56.806v-1.78v-1.721"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M148.436,57.637v-2.611v-2.552"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M150.75,58.468v-3.442v-3.383"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M143.807,55.976v-0.95v-0.89"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M176.447,67.726V60.07"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M169.563,65.292v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M171.877,66.124v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M174.132,66.895V59.24"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M167.248,64.462v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M164.934,63.631v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M178.761,68.557v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M185.705,71.049v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M183.39,70.218v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M181.076,69.387v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M164.934,54.195V46.54"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M174.132,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M171.877,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M164.934,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M167.248,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M169.563,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M176.447,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M178.761,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M183.39,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M185.705,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M181.076,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M150.75,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M139.178,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M141.492,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M146.121,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M143.807,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M148.436,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M162.619,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M157.99,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M153.064,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M155.676,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M160.305,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M222.499,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M217.87,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M213.241,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M215.555,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M220.185,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M227.128,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M231.697,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M234.012,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M229.383,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M224.813,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M197.158,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M194.844,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M192.529,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M188.019,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M190.333,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M208.73,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M210.927,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M201.788,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M204.102,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M206.416,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M199.473,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M234.012,88.438v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M231.697,87.607v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M227.128,85.945V78.29"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M229.383,86.776V79.12"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M220.185,83.453v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M222.499,84.283v-7.656"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M224.813,85.114v-7.655"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M229.383,30.991v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M231.697,30.16v-7.596"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M234.012,29.33v-7.597"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M12.594,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M10.279,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M7.965,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M17.223,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M14.908,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M42.563,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M33.306,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M30.991,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M40.249,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M37.935,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M35.62,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M19.537,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M21.852,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M24.166,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M26.362,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M28.676,7.134V0.25"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M21.852,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M19.537,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M24.166,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M28.676,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M26.362,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M35.62,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M30.991,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M37.935,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M33.306,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M40.249,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M42.563,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M7.965,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M10.279,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M14.908,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M12.594,109.861v-6.884"/>
+									
+										<path i:knockout="Off" fill="none" stroke="#FEB200" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+										M17.223,109.861v-6.884"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</switch>
+	<i:pgf  id="adobe_illustrator_pgf">
+		<![CDATA[
+		eJztfW1zG0eS5n1WBP9DX2z4QoobQV3vXfLGxQEg6dVYthSW7dXsaE4BkbCENQkwAFCyfH/+Mrsr
+qysL1QAoe87aiRmNQfLpp6sys7Kysl668cV/f/7i4fhy9Wb+UI3q6uTeF19M1/PZdrV+XLVw9eTq
+6nazXSN0/7sHlahHNbLGT5rXgfnjfL1ZrJaP47VzvPv++Luzr589qO7/2+p6/gDh7xfbqzlcmD5+
+9ep0dXF7PV9uN9VseVm9mG+3i+XbzatX7U2vXr2ytfoJP17ix7f48RY/3uDH+1evpu9W6+XqerW+
+WMA9V/Nfqq+riG1+nldfr36dXcDPHxcfNz+vHtZytHn/9kFUD8Q9nW1BGPlI6EeyrpvKPK519fwb
+pExWt8tLkGey+gWU0pWFK9I3lRMWL//b4rv5JuOMhKwFEke+EUB2I6WlgjvMqPZS4W2k8vP16mK+
+2UxXVyDq42r6cbasvpm9hSuz6i/zq6vVh2pyBcLDPeMn5vX54moOBr2ebSvbmnf8RL1ub/5hA3dB
+Afh7i7vXT64BIms+rtrWmH7zl6/TOkHc8O/+X1/JWr2SQuPPf8ePl/jxNoFFy/mxQ2rX/ZTqbw86
+J7CdKC/mN7N1a1aovKvgPlysTuc/zW6vtp2MVc/CFn/Qetv/rJ7dILJp77JVDT+6/7p/naTNyEAb
+1Nm/hwL/3zN3f8PfZaUq3VX1/PkpViM7gq0rbeCyDDeInQrw3/1WTjT69/PrmyvwmrbJVW0r5S39
+JAo0VnsZ7zRGVk424VLf/PP3i/mHx9W3q+U8tPF4vX2x+BXaUkgoEj/Che9ur+brH5aLLZqnxXxn
+8G9Wl/MrcN++gPOrWdvkiSrtZ2B8P1u/nW/BcVdXt9u2tzY1Xfv29vrp7ON8nVTy7Ga+/H71Yyvo
+Q+nqqpENtoS0TeVFXcmupZStfNpOVCLejjdTsQ7t/xx889l68XaxfExyuddfrReXvcM6WTXdRyv7
+qEn+8/RfEBEU3m7ny+DlZ8vL6eq6DSltF55DNeD1V6u34Wr/R3sN6ry9CdK2wGtoj+frxRIlObn3
+LVwT1WSZMr5azy4XUAGEsB+Wy9n1/LJ6G6BKQH8ooaCFrCaXJ/f+enLvX0/unZ+fn52fnk/PJ+fj
+c3/enLtze27O9bk6l+fivD47Pzs7Oz2bnk3Oxmf+rDlzZ/bMnOkzdSbPxFl9en56dnp6Oj2dnI5P
+/Sn41qk7tafmVJ+qU3kqTuvp+fRsejqdTifT8dRPm6mb2qmZ6qmayqmY1pPzydnkdDKdTCbjiZ80
+EzexEzPREzWREzEBW47Px2fj0/F0PBmPx37cjN3Yjs1Yj9VYjsW49uf+zJ/6qZ/4sfe+8c5bb7z2
+yksvfN2cN2fNaTNtJs248Q3I2LjGNqbRjQIvEk3tzt2ZO3VTN3Fj513jnLPOOO2Uk0642p7bM3tq
+p3Zix9bbxjprrbHaKiutsCCjOTdn5tRMzcSMjTeNccYaY7RRRhoBseJcn+lTPdUTPdZeN9ppq43W
+GqKyFrpW5+pMnaqpmqix8gpkVE5ZZZRWSkklVC3P5Zk8lVM5kWPpZSOdtNJICOpSSgz25+JMnIqp
+mIix8KIRMDgII7RQQgohQMYamrOGBqknNRitBrVrW4NoNRReC+x8/wtI1RevJ+vWPdqQAR2pbrEX
+4HmvE2iyQYds/+yvRwCvTk6Ds4Kzk6v2SOreDx/ud/xPvMd31zCYbT9ezUGkR18vVx+W7V/VY+gg
+MJYIGEKEgP/kK2htGErqV0oZ+Al/m/pvD6pH30Ifqv4EN79YQLydx7vr6llnJPz3M/76Hf0tqq/x
+VwrgLz/iX3+G3/4TsA+Vrr6p/vq3uro8gWvfoR1F9RL65KPnM1Ch+vLkXvUIRir8pVUDVE+UOGyN
+57MriGDzTprnb7oKfvMAi4psOqN9ehnPL07uPZ/0SkRR79aWTxeb7XHtt2vC7t5P9ClRdxdffLx+
+s7rCov4b4VBYjn5KDc3r51e3bXRf3d48Wf60Aj27zPf5bPsOUrH58nIDaWyHoWlv0wZBO+PPd/jx
+PlwR+PMZfkyJAyWkF6exoHJpo9ni5sFh+bbz9fLZshN0fbt5V32/Wl0xYW/w4/9EH6EKblNhfjxO
+9nEs5W25iIukGqGOUQF8ZL/4B+v8Q8Sezq6uFjDK37xbXAxJ/udQoIyCUaVb/Jh8qjqfVu7ddXxx
+0bpXWT1hfwCRzK+fpsT+u+8uKsRumCBV3WXWCF+lPv9LKNPECt4fZ/IjSoHWMHX7U2nb/ZQiMF3P
+3K8NdoSfFstLsPqL28V2HlWBzPYG55vVi3ezm3mQqu3ZL2PD/28mOf58jR//gR9vWu8/xpSQVK/n
+vSXbP0N92zRQjY9yoTY8LzbXrE1+TGX8v9TOoZLyxX1uMRTzwwhG0y6Y7s8wZXpEAKYU+OfiAqdD
+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
+		]]>
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		RI8Cx+0RfLFobbrm7UFMMutYbNh0QWrTyEAlsH1XbmwHg6OS5U8pxQ0edpietp04GHaNOBj2sjgY
+9u04GPb9GEjbdhwMu24cDLt22btOY6n0Yt7roap6EB+li18fEmU1ENa86tq7rEAE26GP3DAKZvAQ
+pWhjc1HaBMRTC4KaMKpr8GRlN2gM2CCCeExDULtGI9IbY68HLRvB9J3GfXMbzHe6r+0b8IEIiu7U
+SiiAXMPg8G9CAUV/iWCIBaEAcqPwFOD1oGtFMHT64NrkxfS04qBrpyAkGibvchpjWJcd9qBpDz3l
+4UyjR3m+SRctkMUojUG/4duEpGwWopK39vagaRMKkjZGRHwyUXWpTgKGVgzeEfYv8SEobbszUgkY
+7JVFE41fLdblGT1o2tc5k7wxJkKagK/8YXGSv483hjmNrad56DOyO8SRhVSNj2kFT4og9BBlKZHs
+lbD92/sTEI8R0dGg3pDJRCFifE4RmyelEsapsbKEGrGsVGqdtFTCMir5UkoljFOjhybUiGVUasaU
+SlhGpbZJqYRlVGrxlEpYRqVWTKmEcWrs5Qk1YtnaQjj2wNYWCMuo4YgGoxKWCUBxLhWAsKxUCihp
+qYRlpVLwS0slLPMsGitSzyIso1JQT6mEZQLQEJYKQFhGpeEypRKWCUDDUioAYXwSHiewydGsiGVU
+yjtTKmHZ1J7yzoQasYFVgJRKWCaA5o85sYk9p9IEOmESlBHD7jhjEpZRw547oxKWUcNGOqMSlilF
+qwKpUoRxapx7JNSIcWqc0iTUiGVUmimlVMIyKk3AUiphGZXmPimVsMwDaMqaegBhGZVmrCmVsMxY
+NAlNjUVYRqU5aEolLBOApuKpAIRlpdKMOS2VsAHPkvh8o+ZHPHBCp0Q8LhydE/qTbsIKQQQVhG9N
+eWh0eehPQju+tASdvKnjQd3onBIfrg/HIyOo8BFuudMNFT5i2H2LRwLiEhBN8/pQovD7VnwWXxSu
+fcRDyNHrQVzvmmzRTOHzfPEZiihao7sD2ExefPYRE7bMYu3LFmTWx3273pSftbH0ZgLWEr5dHyPd
+cIqZHUsiKDtqg8fIs0M5AcoOr4zqhu3/EsJo9PqJhBchXh4kPjI7t0QQPz0S1hPT0yMEMaLGE6b8
+kF+EOLFdYOREgnjVYU6eVk0QJ4IpDD+EFCFeNYyJmh9BihC3I2Rwhh+FiRAnhjcYpESCODHk+SmR
+IC5j+51VzHcixIkSBni+HxyhooxJtIkQCzakYkokiBOD5CmRIEYkgRJihDgxqJgSCeLE0F4pkSBO
+DD6VEgnim6zBVdJNVoJ4icGd0xIJ4iUGL01LJIgTQ09KiQRlg0vb2dnQ0iHZaNHFDpZbBCh7HKrr
+6+ypnwBl+8Vd2GIn+QPEXSKEmdQlCGLE8ss7Dv76dHJy74vxE/P6bHn5dPZxvn74EIAvns/ezr9f
+zxZX8/XJvbeb2ft5NVsuV9vZdn4Dl6q36/lmu1rPq8271QdE8KZ4wxdfnD07P7n3/wDXeZt6
+		]]>
+	</i:pgf>
+</svg>

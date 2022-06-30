@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="423.33334mm"
+   height="282.22223mm"
+   viewBox="0 0 1500 1000"
+   id="svg4241"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Sea Guard Ensign of Ukraine (dress).svg">
+  <defs
+     id="defs4243" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76666667"
+     inkscape:cx="750"
+     inkscape:cy="500.00003"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true" />
+  <metadata
+     id="metadata4246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(887.14286,99.066367)">
+    <g
+       id="g3360">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         d="m -887.14286,-99.066367 1500,0 0,999.999997 -1500,0 z"
+         id="path4207"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect6"
+         d="m -887.14286,-99.066343 650,0 0,399.999973 -650,0 z"
+         style="fill:#ffd700;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4"
+         d="m -887.14286,-99.066343 650,0 0,199.999983 -650,0 z"
+         style="fill:#0057b8;fill-opacity:1" />
+      <path
+         style="fill:#008000;fill-opacity:1"
+         d="m -887.14286,500.93363 650,0 0,400 -650,0 z"
+         id="path4209"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4211"
+         d="m -37.142857,500.93363 649.999997,0 0,400 -649.999997,0 z"
+         style="fill:#008000;fill-opacity:1" />
+      <path
+         style="fill:#008000;fill-opacity:1"
+         d="m -37.142857,-99.066367 649.999997,0 0,399.999997 -649.999997,0 z"
+         id="path4213"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4215"
+         d="m -70.476187,-99.066367 16.66666,0 0,416.666667 666.666667,0 0,16.66666 -683.333327,0 z"
+         style="fill:#008000;fill-opacity:1" />
+      <path
+         style="fill:#008000;fill-opacity:1"
+         d="m -203.80949,-99.066367 -16.6667,0 0,416.666667 -666.66663,0 0,16.66666 683.33333,0 z"
+         id="path4217"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#008000;fill-opacity:1"
+         d="m -70.476187,900.93363 16.66666,0 0,-416.66667 666.666667,0 0,-16.66666 -683.333327,0 z"
+         id="path4219"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4221"
+         d="m -203.80953,900.93363 -16.6667,0 0,-416.66667 -666.66663,0 0,-16.66666 683.33333,0 z"
+         style="fill:#008000;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
