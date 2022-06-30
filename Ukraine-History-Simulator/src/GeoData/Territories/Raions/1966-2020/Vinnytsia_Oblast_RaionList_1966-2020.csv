@@ -1,0 +1,30 @@
+#,Name,Center,Year,"Area
+(km²)",Population,Density,Councils (municipalities) ,,
+,,,,,,,City,Town,Village 
+1,Bar,Bar,1923,1102,62464,57,1,1,27
+2,Bershad,Bershad,,1286,71312,55,1,0,28
+3,Vinnytsia*,Vinnytsia,1923,919,74250,81,0,3,30
+4,Haisyn,Haisyn,1923,1102,64855,59,1,0,26
+5,Zhmerynka*,Zhmerynka,1923,1171,44134,38,0,1,27
+6,Illintsi,Illintsi,1923,915,42519,46,1,1,22
+7,Kalynivka,Kalynivka,1923,1086,47656,44,1,0,28
+8,Koziatyn*,Koziatyn,1923,1131,65031,57,0,2,32
+9,Kryzhopil,Kryzhopil,1923,884,40907,46,0,1,19
+10,Lypovets,Lypovets,1923,969,44273,46,1,1,25
+11,Lityn,Lityn,1923,960,42269,44,0,1,21
+12,Mohyliv-Podilskyi*,Mohyliv-Podilskyi,1925,933,40095,43,0,1,27
+13,Murovani Kurylivtsi,Murovani Kurylivtsi,1967,886,32768,37,0,1,24
+14,Nemyriv,Nemyriv,1923,1292,59469,46,1,2,40
+15,Orativ,Orativ,1979,874,27345,31,0,1,27
+16,Pishchanka,Pishchanka,1923,595,25102,42,0,2,13
+17,Pohrebyshche,Pohrebyshche,1923,1200,37721,31,1,0,26
+18,Teplyk,Teplyk,1930,809,35267,44,0,1,25
+19,Tyvriv,Tyvriv,1923,882,40773,46,1,2,25
+20,Tomashpil,Tomashpil,1923,778,42631,55,0,2,22
+21,Trostianets,Trostianets,1923,945,65060,69,0,1,17
+22,Tulchyn,Tulchyn,1923,1124,47761,42,1,2,23
+23,Khmilnyk*,Khmilnyk,,1253,44084,35,0,0,30
+24,Chernivtsi,Chernivtsi,1990,592,28661,48,0,1,13
+25,Chechelnyk,Chechelnyk,1966,759,27189,36,0,1,15
+26,Sharhorod,Sharhorod,1965,1137,64943,57,1,0,31
+27,Yampil,Yampil,1965,788,47683,61,1,0,18

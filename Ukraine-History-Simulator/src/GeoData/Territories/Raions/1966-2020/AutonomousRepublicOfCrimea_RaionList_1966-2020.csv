@@ -1,0 +1,17 @@
+#,Name,Center,Year,"Area
+(km²)",Population,Density,Councils (municipalities) ,,
+,,,,,,,City,Town,Village 
+1,Bakhchysarai,Bakhchysarai,1923,1589,92617,58,1,2,15
+2,Bilohirsk,Bilohirsk,,1894,66396,35,1,1,17
+3,Dzhankoy*,Dzhankoy,1921,2667,81990,31,0,2,26
+4,Kirovske,Kirovske,1935,1209,57686,48,1,1,11
+5,Krasnohvardiiske,Krasnohvardiiske,1944,1766,93686,53,0,2,18
+6,Krasnoperekopsk*,Krasnoperekopsk,1935,1231,31516,26,0,0,12
+7,Lenine,Lenine,1921,2919,69653,24,1,2,24
+8,Nyzhniohirskyi,Nyzhnohirskyi,1930,1212,55863,46,0,1,18
+9,Pervomaiske,Pervomaiske,1935,1474,40349,27,0,1,16
+10,Rozdolne,Rozdolne,1935,1231,37384,30,0,2,10
+11,Saky*,Saky,1935,2257,80302,36,0,1,23
+12,Simferopol*,Simferopol,1965,1753,148930,85,0,4,18
+13,Sovietskyi,Sovietskyi,1935,1079,37090,34,0,1,11
+14,Chornomorske,Chornomorske,1930,1509,34012,23,0,1,10
