@@ -1,0 +1,9 @@
+Notes for V3 timeline
+
+WW1 was moved 1 entry ahead to make room for the Black Sea Cossack Host era
+4 new eras were added in V3, they include:
+- 6.1: Kingdom of Ruthenia
+- 7.1: Ruthenian Lands
+- 8.1: Zaporizhian Sich
+- 9.1: Black Sea Cossack Host
+Pre-history up to the Polish-Lithuanian Commonwealth is a bit inaccurate, and needs to be fixed
