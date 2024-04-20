@@ -1,7 +1,7 @@
-| <img alt="Modules banner failed to load. Click/tap here to attempt to view it" src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" width="1280" height="720"/> |
+| <img alt="Modules banner failed to load. Click/tap here to attempt to view it" src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" title="Ukraine History Simulator module banner" width="1280" height="720"/> |
 |---|
-| **Current module count:** `18` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇺🇦️ Ukraine specific modules:** `10` **(**_as of 2022, Sunday, December 4th_**)** |
+| **Current module count:** `20` **(**_as of 2024, Saturday, April 20th_**)** |
+| **🇺🇦️ Ukraine specific modules:** `12` **(**_as of 2024, Saturday, April 20th_**)** |
 | **🇷🇺️ Russia specific modules:** `8` **(**_as of 2022, Sunday, December 4th_**)** |
 | **🇧🇾️ Belarus specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
 | **🇵🇱️ Poland specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
