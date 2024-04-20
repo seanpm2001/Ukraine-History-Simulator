@@ -1,20 +1,29 @@
 
 ***
 
+###### Top
+
+<img src="/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png" alt="UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error." title="Ukraine History Simulator logo" width="256" height="256">
+
 # Ukraine-History-Simulator
 
-![UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png)
+<img src="/.github/SocialPreview/Ukraine_History_Simulator_1080p_Wallpaper_V1_HighCompression.png" alt="Ukraine_History_Simulator_1080p_Wallpaper_V1_HighCompression.png failed to load" title="Ukraine History Simulator banner/flag" width="576" height="324">
 
 # By:
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
-## [`@Seanpm2001`](https://github.com/seanpm2001/), [`@seanpm2001-Ukraine`](https://github.com/seanpm2001-Ukraine/), [`@Ukraine-History-Simulator`](https://github.com/Ukraine-History-Simulator/) Et; Al.
+## [`@Seanpm2001`](https://github.com/seanpm2001/), [`@seanpm2001-Ukraine (account no longer exists)`](https://github.com/seanpm2001-Ukraine/), [`@Ukraine-History-Simulator (account no longer exists)`](https://github.com/Ukraine-History-Simulator/) Et; Al.
 
+# RepoData
 
-### Top
+> `Ukraine History Simulator is a GoDot-powered game where you can be in control of the country of Ukraine throughouts its entire history (from 45000 BCE to present)`
 
-# `README.md`
+# StandWithUkraine
+
+[![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
+
+> [Local image link](/Graphics/Ukraine/StandWithUkraine/banner2-direct.svg)
 
 ***
 
@@ -111,9 +120,37 @@ Ukraine History Simulator is a GoDot-powered game where you can be in control of
 
 See above. Ukraine History Simulator (UHE) is a history video game written in GDScript (under the GoDot engine) where you can control the country of Ukraine and is territory through its entire history, from pre-history (~45000 BCE) to the present day. It is still very much a work in progress, and is far from complete.
 
+---
+
 ### Current development challenges
 
 The biggest challenge currently facing development is how the game will be programmed. There is still not a clear consensus on how modifying 1 behavior in the game can create/branch off to alternative/official scenarios, they won't all be pre-programmed.
+
+---
+
+### Modules <img src="/Modules/ModuleIcon1.png" alt="ModuleIcon1.png failed to load" title="Module icon" width="25" height="25">
+
+The game is highly modular, and relies on installable modules, which can be found [:octocat: `here`](/Modules/)
+
+---
+
+### Project group
+
+This project belongs to 3 project groups:
+
+- [:octocat: `seanpm2001/Ukraine`](https://github.com/seanpm2001/Ukraine/)
+- [:octocat: `seanpm2001/Games`](https://github.com/seanpm2001/Games/)
+- [:octocat: `seanpm2001/Ukraine-History-Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/)
+
+It belongs to 1 collective as well:
+
+- [:octocat: `seanpm2001/Video-game-collective`](https://github.com/seanpm2001/Video-game-collective/)
+
+---
+
+### GoDot/GDScript
+
+The game is written mostly in GDScript, as it is planned to have primary GoDot support. Other engines will be used as well, but GoDot functionality comes first.
 
 ***
 
@@ -285,9 +322,8 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A (GDScript)](PROJECT_LANG_1.gd)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/Ukraine-History-Simulator/discussions)
+- [Project language file A (GDScript)](PROJECT_LANG_1.gd)
+- [Join the discussion on GitHub](https://github.com/seanpm2001/Ukraine-History-Simulator/discussions)
 
 No other resources at the moment.
 
@@ -301,137 +337,148 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ***
 
-## About README
+# File info
 
-**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `2 (2024, Saturday, April 20th at 04:38 pm PST)`
+- **Line count (including blank lines and compiler line):** `492`
+- **Article language:** `English (USA)` / `Markdown (CommonMark)` <!-- / `HTML5 (5.3)` !-->
 
-**File version:** `1 (2022, Monday, July 4th at 8:50 pm PST)`
-
-**Line count (including blank lines and compiler line):** `445`
-
-**Article language:** `English (USA)` / `Markdown (CommonMark)` <!-- / `HTML5 (5.3)` !-->
-
-<!-- **You may need special rendering support for the `<details>` tag in use in this document.** !-->
+> **You may need special rendering support for the `<details>` tag in use in this document.**
 
 ***
 
-## README version history
+# File history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+<details><summary><p><b>Click/tap here to expand/collapse the file history section</b></p></summary>
+
+---
+
+## Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 0.1</b></p></summary>
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the index
+- [x] Added the about section
+- [x] Added the Wiki section
+- [x] Added the version history section
+- [x] Added the issues section.
+- [x] Added the past issues section
+- [x] Added the past pull requests section
+- [x] Added the active pull requests section
+- [x] Added the contributors section
+- [x] Added the contributing section
+- [x] Added the about README section
+- [x] Added the README version history section
+- [x] Added the resources section
+- [x] Added a software status section, with a DRM free sticker and message
+- [x] Added the sponsor info section
 
-> * Added the title section
+</details> <!-- End of File history: Version 0.1 !-->
 
-> * Added the index
+---
 
-> * Added the about section
+## **ITERATION 5**
 
-> * Added the Wiki section
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version ITERATION-5</b></p></summary>
 
-> * Added the version history section
+- [x] Updated the title section
+- [x] Updated the index
+- [x] Added the history section
+- [x] Updated the file info section
+- [x] Updated the file history section
 
-> * Added the issues section.
+</details> <!-- End of File history: ITERATION 5 !-->
 
-> * Added the past issues section
+---
 
-> * Added the past pull requests section
+## **ITERATION 6**
 
-> * Added the active pull requests section
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version ITERATION-6</b></p></summary>
 
-> * Added the contributors section
+- [x] Updated the title section
+- [x] Fixed and update template links
+- [x] Updated the index
+- [x] Added the copying section
+- [x] Added the credits section
+- [x] Added the installation section
+- [x] Updated the resources section
+- [x] Updated the contributors section
+- [x] Added the technical notes section
+- [x] Updated the footer
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ]  No other changes in version 0.1
 
-> * Added the contributing section
+</details> <!-- End of File history: ITERATION 6 !-->
 
-> * Added the about README section
+---
 
-> * Added the README version history section
+## Version 1 (2022, Monday, July 4th at 8:50 pm PST)
 
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (2022, Monday, July 4th at 8:50 pm PST)
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> Changes:
-
-> * Updated the title section
-
-> * Updated the index section
-
-> * Updated the repository description section
-
-> * Updated the about section
-
-> > * Added the `Current development challenges` subsection
-
-> * Updated the history section
-
-> * Updated the installation section
-
-> * Updated the contributors section
-
-> * Updated the resources section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
+> **Note** _The first official version of the README_
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the title section
+- [x] Updated the index section
+- [x] Updated the repository description section
+- [x] Updated the about section
+- - [x] Added the `Current development challenges` subsection
+- [x] Updated the history section
+- [x] Updated the installation section
+- [x] Updated the contributors section
+- [x] Updated the resources section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 1
 
-> * No other changes in version 2
+</details> <!-- End of File history: Version 1 !-->
+
+---
+
+## Version 2 (2024, Saturday, April 20th at 04:38 pm PST)
+
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Starting to breathe life back into this project, as it has been inactive for a while, and I have had ideas on improving it lately._
+
+> **Changes:**
+
+- [x] Updated the title section
+- - [x] Converted image link from Markdown to HTML format
+- - [x] Marked 2 account links as dead
+- - [x] Added the `RepoData` subsection
+- - [x] Added the `#StandWithUkraine` subsection
+- [x] Updated the `About` section
+- - [x] Added the `Modules` subsection
+- - [x] Added the `Project group` subsection
+- - [x] Added the `GoDot/GDScript` subsection
+- [x] Updated the `File info` section
+- - [x] Renamed from `About file`
+- [x] Updated the `File history` section
+- - [x] Renamed from `README version history`
+- - [x] Added an entry for version 2
+- - [x] Reformatted the entry for version 1 and older versions
+- [ ] No other changes in version 2
+
+</details> <!-- End of File history: Version 2 !-->
+
+---
+
+_End of file history._
+
+</details> <!-- End of file history section !-->
 
 ***
 
