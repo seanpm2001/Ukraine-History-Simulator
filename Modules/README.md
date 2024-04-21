@@ -7,7 +7,7 @@
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the title section</b></p></summary>
 
-| <img alt="Modules logo failed to load. Click/tap here to attempt to view it" src="/Modules/ModuleIcon1.png" title="Modules logo" width="200" height="200"/> |
+| <img alt="Modules logo failed to load. Click/tap here to attempt to view it" src="/Modules/ModuleIcon1.png" title="Modules logo (Table of Contents)" width="200" height="200"/> |
 |---|
 | **Index/ToC** |
 | **Jump to:** [`Title`](#Ukraine-History-Simulator-Emulator-modules) |
@@ -16,6 +16,7 @@
 | **Jump to:** [`Module Table`](#Module-table) |
 | **Jump to:** [`File info`](#File-info) |
 | **Jump to:** [`File history`](#File-history)
+| _Table version:_ `5` | [`/Modules/!OldVersions/TABLES/Index-Table-of-Contents/`](/Modules/!OldVersions/TABLES/Index-Table-of-Contents/) |
 
 </details> <!-- End of title section !-->
 
@@ -47,26 +48,44 @@ _List of modules for this project._
 
 | <img alt="Modules banner failed to load. Click/tap here to attempt to view it" src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" title="Ukraine History Simulator module banner" width="1280" height="720"/> |
 |---|
-| **Current module count:** `20` **(**_as of 2024, Saturday, April 20th_**)** |
-| **🇺🇦️ Ukraine specific modules:** `12` **(**_as of 2024, Saturday, April 20th_**)** |
-| **🇷🇺️ Russia specific modules:** `8` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇧🇾️ Belarus specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇵🇱️ Poland specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇱🇹️ Lithuania specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇲🇩️ Moldova specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇷🇴️ Romania specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **🇩🇪️ Germany specific modules:** `0` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Geo-data modules:** `6` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Vexillology modules:** `2` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Heraldry modules:** `2` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Media/Audio modules:** `2` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Leadership in-game modules:** `2` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Logistical army data modules:** `4` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Modules targeting all eras (45000 BCE-present):** `10` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Modules targeting the Russo-Ukrainian war (2014-present):** `4` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Modules targeting the Modern era (1991-present):** `4` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Modules created by the Ukraine History Simulator team:** `18` **(**_as of 2022, Sunday, December 4th_**)** |
-| **Modules created by [`@seanpm2001`](https://github.com/seanpm2001/)** `18` **(**_as of 2022, Sunday, December 4th_**)** |
+| ***Overview of modules*** | ***Overview of modules*** |
+| **Current module count:** `22` **(**_as of 2024, Sunday, April 21st._**)** |
+| ***Country specific modules*** | ***Country specific modules*** |
+| **🇺🇦️ Ukraine specific modules:** `14` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇷🇺️ Russia specific modules:** `8` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇧🇾️ Belarus specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇵🇱️ Poland specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇱🇹️ Lithuania specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇲🇩️ Moldova specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇷🇴️ Romania specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇩🇪️ Germany specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇬🇪️ Georgia specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇸🇾️ Syria specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇭🇺️ Hungary specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇱🇻️ Latvia specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇪🇪️ Estonia specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇰🇿️ Kazakhstan specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇰🇬️ Kyrgyzstan specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇦🇲️ Armenia specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🚩️ Soviet Union specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| **🇪🇺️ European Union specific modules:** `0` **(**_as of 2024, Sunday, April 21st._**)** |
+| ***Module type*** | ***Module type*** |
+| **Geo-data modules:** `6` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Boundaries and location modules:** `4` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Logistical army data modules:** `4` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Vexillology modules:** `2` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Heraldry modules:** `2` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Media/Audio modules:** `2` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Leadership in-game modules:** `2` **(**_as of 2024, Sunday, April 21st_**)** |
+| ***Target modules*** | ***Target modules*** |
+| **Modules targeting all eras (45000 BCE-present):** `10` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Modules targeting the Russo-Ukrainian war (2014-present):** `4` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Modules targeting the Modern era (1991-present):** `4` **(**_as of 2024, Sunday, April 21st._**)** |
+| ***Module authors*** | ***Module authors*** |
+| **Modules created by the Ukraine History Simulator team:** `18` **(**_as of 2024, Sunday, April 21st._**)** |
+| **Modules created by [`@seanpm2001`](https://github.com/seanpm2001/)** `18` **(**_as of 2024, Sunday, April 21st._**)** |
+| ***Table info*** | ***Table info*** |
+| _Table version:_ `5` | [`/Modules/!OldVersions/TABLES/Modules_List/`](/Modules/!OldVersions/TABLES/Modules_List/) |
 
 </details> <!-- End of module list index !-->
 
@@ -76,27 +95,30 @@ _List of modules for this project._
 
 | #️⃣️ Table entry *️⃣️ | :octocat: Module link :octocat: | 🌐️ Target country | 🗓️ Event 🗓️ | ℹ️ Module type ℹ️ | 🧑‍💻️ Developer(s) 👩‍💻️ | 💾️ Size 💾️ | 🟦️ Thumbnail 🟨️ | 🔵️ Icon 🟡️ |
 |---|---|---|---|---|---|---|---|---|
-| `0001` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap/`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap/) | 🇺🇦️ Ukraine | Russo-Ukrainian war | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0002` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap/`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap/) | 🇷🇺️ Russia | Russo-Ukrainian war | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0003` | [`https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) |  🇺🇦️ Ukraine | All eras | Media/Audio | Ukraine History Simulator, seanpm2001, & UHS community | 20 Megabytes & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0004` | [`https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Russia/) | 🇷🇺️ Russia | All eras | Media/Audio | Ukraine History Simulator, seanpm2001, & UHS community | 20 Megabytes & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0005` | [`https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) |   🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0006` | [`https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia/) |    🇷🇺️ Russia | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0007` | [`https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) |   🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0008` | [`https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |  🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabytes & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0009` | [`https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | 🇺🇦️ Ukraine | All eras | Vexillology | Ukraine History Simulator, seanpm2001, & UHS community | 3 Megabytes & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0010` | [`https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia/) | 🇷🇺️ Russia | All eras | Vexillology | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0011` | [`https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine) | 🇺🇦️ Ukraine | All eras | Heraldry | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0012` | [`https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia) | 🇷🇺️ Russia | All eras | Heraldry | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0013` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine/) | 🇺🇦️ Ukraine | Russo-Ukrainian War | Logistical army data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0014` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia/) | 🇷🇺️ Russia | Russo-Ukrainian War | Logistical army data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0015` | [`https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine) | 🇺🇦️ Ukraine | All eras | Leadership in-game | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0016` | [`https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia) | 🇷🇺️ Russia | All eras | Leadership in-game | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0017` | [`https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine) | 🇺🇦️ Ukraine | All eras | Logistical army data | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0018` | [`https://github.com/seanpm2001/UHS_DataSets_Generals_Russia`](https://github.com/seanpm2001/UHS_DataSets_Generals_Russia) | 🇷🇺️ Russia | All eras | Logistical army data | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0019` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kyiv_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kyiv_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
-| `0020` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Sumy_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Sumy_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | ![/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png](/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png) | ![/Modules/ModuleIcon1.png](/Modules/ModuleIcon1.png) |
+| `0001` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap/`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap/) | 🇺🇦️ Ukraine | Russo-Ukrainian war | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0002` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap/`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap/) | 🇷🇺️ Russia | Russo-Ukrainian war | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0003` | [`https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) |  🇺🇦️ Ukraine | All eras | Media/Audio | Ukraine History Simulator, seanpm2001, & UHS community | 20 Megabytes & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0004` | [`https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Russia/) | 🇷🇺️ Russia | All eras | Media/Audio | Ukraine History Simulator, seanpm2001, & UHS community | 20 Megabytes & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0005` | [`https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) |   🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0006` | [`https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia/) |    🇷🇺️ Russia | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0007` | [`https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) |   🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0008` | [`https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |  🇺🇦️ Ukraine | Modern era | Geo-data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabytes & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0009` | [`https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | 🇺🇦️ Ukraine | All eras | Vexillology | Ukraine History Simulator, seanpm2001, & UHS community | 3 Megabytes & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0010` | [`https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia/`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia/) | 🇷🇺️ Russia | All eras | Vexillology | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0011` | [`https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine) | 🇺🇦️ Ukraine | All eras | Heraldry | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0012` | [`https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia`](https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia) | 🇷🇺️ Russia | All eras | Heraldry | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0013` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine/) | 🇺🇦️ Ukraine | Russo-Ukrainian War | Logistical army data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0014` | [`https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia`](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia/) | 🇷🇺️ Russia | Russo-Ukrainian War | Logistical army data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0015` | [`https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine) | 🇺🇦️ Ukraine | All eras | Leadership in-game | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0016` | [`https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia) | 🇷🇺️ Russia | All eras | Leadership in-game | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0017` | [`https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine) | 🇺🇦️ Ukraine | All eras | Logistical army data | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0018` | [`https://github.com/seanpm2001/UHS_DataSets_Generals_Russia`](https://github.com/seanpm2001/UHS_DataSets_Generals_Russia) | 🇷🇺️ Russia | All eras | Logistical army data | Ukraine Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0019` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kyiv_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Kyiv_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0020` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Sumy_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Sumy_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0021` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Mykolaiv_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Mykolaiv_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0022` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Chernihiv_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Chernihiv_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
 | `####` |`More modules coming soon` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` |
+| _Table version:_ `5` | [`/Modules/!OldVersions/TABLES/Modules_Table/`](/Modules/!OldVersions/TABLES/Modules_Table/) | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ |
 
 </details> <!-- End of module list table !-->
 
@@ -113,8 +135,8 @@ _End of module listing._
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `4 (2024, Saturday, April 20th at 02:31 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,258`
+- **File version:** `5 (2024, Sunday, April 21st at 02:30 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,305`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -233,6 +255,31 @@ _History of this file._
 - [ ] No other changes in version 4
 
 </details> <!-- End of V4 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 5 (2024, Sunday, April 21st at 02:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Updated the `Table of Contents`
+- [x] Updated the `Module table` section
+- - [x] Major overhaul of the module table
+- - [x] Updated the counter for the total number of modules and the total number of Ukrainian modules
+- [x] Updated the `Module list` section
+- - [x] Updated the list of modules, adding 2 new modules that are to be created today, now totaling 22 module entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- End of V5 !-->
 
 ---
 
