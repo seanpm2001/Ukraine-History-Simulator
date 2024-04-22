@@ -7,4 +7,4 @@
 | **Jump to:** [`Module Table`](#Module-table) |
 | **Jump to:** [`File info`](#File-info) |
 | **Jump to:** [`File history`](#File-history)
-| _Table version:_ `5` | [`/Modules/!OldVersions/TABLES/Index-Table-of-Contents/`](/Modules/!OldVersions/TABLES/Index-Table-of-Contents/) |
+| _Table version:_ `6 (2024.04.22)` | [`/Modules/!OldVersions/TABLES/Index-Table-of-Contents/`](/Modules/!OldVersions/TABLES/Index-Table-of-Contents/) |
