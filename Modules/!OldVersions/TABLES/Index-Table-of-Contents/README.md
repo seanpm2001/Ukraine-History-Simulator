@@ -8,5 +8,5 @@
 | **Jump to:** [`File info`](#File-info) |
 | **Jump to:** [`File history`](#File-history)
 | `Table of contents table` |
-| _Table version:_ `7 (2024.04.23)` |
+| _Table version:_ `8 (2024, April 24th)` |
 | [`/Modules/!OldVersions/TABLES/Index-Table-of-Contents/`](/Modules/!OldVersions/TABLES/Index-Table-of-Contents/) |
