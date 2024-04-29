@@ -19,7 +19,7 @@
 | **Jump to:** [`Footer`](#Footer) |
 | **Jump to:** [`End of file`](#EOF) |
 | `Table of contents table` |
-| _Table version:_ `11 (2024, Saturday, April 27th)` |
+| _Table version:_ `12 (2024, Sunday, April 28th)` |
 | [`/Modules/!OldVersions/TABLES/Index-Table-of-Contents/`](/Modules/!OldVersions/TABLES/Index-Table-of-Contents/) |
 
 </details> <!-- End of title section !-->
@@ -53,48 +53,48 @@ _List of modules for this project._
 | <img alt="Modules banner failed to load. Click/tap here to attempt to view it" src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" title="Ukraine History Simulator module banner" width="1280" height="720"/> |
 |---|
 | ***Overview of modules*** |
-| **Current module count:** `35` **(**_as of 2024, Saturday, April 27th._**)** |
+| **Current module count:** `37` **(**_as of 2024, Sunday, April 28th._**)** |
 | ***Country specific modules*** | ***Country specific modules*** |
-| **🇺🇦️ Ukraine specific modules:** `26` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇷🇺️ Russia specific modules:** `9` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇧🇾️ Belarus specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇵🇱️ Poland specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇱🇹️ Lithuania specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇲🇩️ Moldova specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇷🇴️ Romania specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇩🇪️ Germany specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇬🇪️ Georgia specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🟩️ Chechen Republic of Ichkeria specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇫🇮️ Finland specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇭🇺️ Hungary specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇱🇻️ Latvia specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇪🇪️ Estonia specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇰🇿️ Kazakhstan specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇰🇬️ Kyrgyzstan specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇦🇲️ Armenia specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇦🇫️ Afghanistan specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇸🇾️ Syria specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🚩️ Soviet Union specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
-| **🇪🇺️ European Union specific modules:** `0` **(**_as of 2024, Saturday, April 27th._**)** |
+| **🇺🇦️ Ukraine specific modules:** `28` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇷🇺️ Russia specific modules:** `9` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇧🇾️ Belarus specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇵🇱️ Poland specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇱🇹️ Lithuania specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇲🇩️ Moldova specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇷🇴️ Romania specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇩🇪️ Germany specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇬🇪️ Georgia specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🟩️ Chechen Republic of Ichkeria specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇫🇮️ Finland specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇭🇺️ Hungary specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇱🇻️ Latvia specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇪🇪️ Estonia specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇰🇿️ Kazakhstan specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇰🇬️ Kyrgyzstan specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇦🇲️ Armenia specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇦🇫️ Afghanistan specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇸🇾️ Syria specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🚩️ Soviet Union specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
+| **🇪🇺️ European Union specific modules:** `0` **(**_as of 2024, Sunday, April 28th._**)** |
 | ***Module type*** | ***Module type*** |
-| **Geo-data modules:** `6` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Boundaries and location modules:** `17` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Logistical army data modules:** `4` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Vexillology modules:** `2` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Heraldry modules:** `2` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Media/Audio modules:** `2` **(**_as of 2024, Saturday, April 27th._**)** |
+| **Geo-data modules:** `6` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Boundaries and location modules:** `19` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Logistical army data modules:** `4` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Vexillology modules:** `2` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Heraldry modules:** `2` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Media/Audio modules:** `2` **(**_as of 2024, Sunday, April 28th._**)** |
 | **Leadership in-game modules:** `2` **(**_as of 2024, Monday, April 22nd_**)** |
 | ***Target modules*** | ***Target modules*** |
-| **Modules targeting all eras (45000 BCE-present):** `10` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Modules targeting the Russo-Ukrainian war (2014-present):** `4` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Modules targeting the Modern era (1991-present):** `4` **(**_as of 2024, Saturday, April 27th._**)** |
+| **Modules targeting all eras (45000 BCE-present):** `10` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Modules targeting the Russo-Ukrainian war (2014-present):** `4` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Modules targeting the Modern era (1991-present):** `4` **(**_as of 2024, Sunday, April 28th._**)** |
 | ***Module authors*** | ***Module authors*** |
-| **Modules created by the [:octocat: `Ukraine History Simulator team`](https://github.com/seanpm2001/Ukraine-History-Simulator) :** `35` **(**_as of 2024, Saturday, April 27th._**)** |
-| **Modules created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) :** `35` **(**_as of 2024, Saturday, April 27th._**)** |
+| **Modules created by the [:octocat: `Ukraine History Simulator team`](https://github.com/seanpm2001/Ukraine-History-Simulator) :** `37` **(**_as of 2024, Sunday, April 28th._**)** |
+| **Modules created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) :** `37` **(**_as of 2024, Sunday, April 28th._**)** |
 | ***Table info*** |
 | `Module overview list table` |
 | `Lists an overview of the modules for this project` |
-| _Table version:_ `11 (2024, Saturday, April 27th)` |
+| _Table version:_ `12 (2024, Sunday, April 28th)` |
 | [`/Modules/!OldVersions/TABLES/Modules_List/`](/Modules/!OldVersions/TABLES/Modules_List/) |
 
 </details> <!-- End of module list index !-->
@@ -140,8 +140,10 @@ _List of modules for this project._
 | `0033` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Poltava_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Poltava_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
 | `0034` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Rivne_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Rivne_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
 | `0035` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Ternopil_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Ternopil_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0036` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Vinnytsia_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Vinnytsia_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
+| `0037` | [`https://github.com/seanpm2001/UHS_Datasets_Oblasts_Volyn_Ukraine`](https://github.com/seanpm2001/UHS_Datasets_Oblasts_Volyn_Ukraine/) | 🇺🇦️ Ukraine | Ukrainian locations and boundaries | Location data | Ukraine History Simulator, seanpm2001, & UHS community | 1 Megabyte & Growing | <img src="/Graphics/Module/Banner/Placeholder/PNG/UHE_Module_1080pWallpaper_V1_HighCompression.png" alt="UHE module wallpaper failed to load" title="UHS/UHE module wallpaper" width="384" height="216"> | <img src="/Modules/ModuleIcon1.png" alt="UHE module icon failed to load" title="UHS/UHE module icon" width="200" height="200"> |
 | `####` |`More modules coming soon` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` | `NaN` |
-| _Table version:_ `11 (2024, Saturday, April 27th)` | [`/Modules/!OldVersions/TABLES/Modules_Table/`](/Modules/!OldVersions/TABLES/Modules_Table/) | `Module listing table` | `Lists all of the modules for this project` | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ |
+| _Table version:_ `12 (2024, Sunday, April 28th)` | [`/Modules/!OldVersions/TABLES/Modules_Table/`](/Modules/!OldVersions/TABLES/Modules_Table/) | `Module listing table` | `Lists all of the modules for this project` | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ | 🇺🇦️ |
 
 </details> <!-- End of module list table !-->
 
@@ -158,15 +160,19 @@ _End of module listing._
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `11 (2024, Saturday, April 27th at 04:19 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,473`
+- **File version:** `12 (2024, Sunday, April 28th at 10:11 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `0,503` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,895` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `41,999` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `36,773` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `42,582` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-> _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-> **You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details> <!-- End of file info section !-->
 
@@ -448,6 +454,30 @@ _History of this file._
 - [ ] No other changes in version 11
 
 </details> <!-- End of V11 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 12 (2024, Sunday, April 28th at 10:11 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Updated the `Table of Contents`
+- [x] Updated the `Module table` section
+- - [x] Updated the counter for the total number of modules
+- [x] Updated the `Module list` section
+- - [x] Updated the list of modules, adding 2 new modules that are to be created today, now totaling 37 module entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of V12 !-->
 
 ---
 
