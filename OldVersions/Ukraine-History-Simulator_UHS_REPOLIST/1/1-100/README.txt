@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: Ukraine-History-Simulator_UHS_REPOLIST.urll
 //// A list of all Ukraine History Simulator (UHS) project repositories by @seanpm2001
-//// As of 2025, Thursday, September 18th
+//// As of 2025, Thursday, September 25th
 
 //// Ukraine History Simulator Main (1)
 
@@ -81,6 +81,11 @@ https://github.com/seanpm2001/UHS_Datasets_Oblasts_Zaporizhzhia_Ukraine
 https://github.com/seanpm2001/UHS_Datasets_Oblasts_Donetsk_Ukraine
 https://github.com/seanpm2001/UHS_Datasets_Oblasts_Luhansk_Ukraine
 
+//// //// //// UHS Datasets: Crimea (2)
+
+https://github.com/seanpm2001/UHS_Datasets_Ukraine_Crimea
+https://github.com/seanpm2001/UHS_Datasets_Ukraine_Crimea_Docs
+
 //// //// //// UHS Datasets: Ukrainian Raions (1)
 
 https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine
@@ -143,8 +148,8 @@ https://github.com/seanpm2001/Ukraine-History-Simulator_Overworld
 https://github.com/seanpm2001/Ukraine-History-Simulator_Overworld_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Ukraine History Simulator (UHS)): 52
-//// 1+1+1+2+2+1+1+1+1+2+25+1+1+1+1+1+1+1+1+1+1+1+1+2=52
+//// Repo count (Ukraine History Simulator (UHS)): 54
+//// 1+1+1+2+2+1+1+1+1+2+25+2+1+1+1+1+1+1+1+1+1+1+1+1+2=54
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -179,15 +184,15 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Ukrainian-State-_-Form
 //// Repo count (See also): 13
 //// 1+1+1+10=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 65
-//// 52+13=65
+//// Total repo count: 67
+//// 54+13=67
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Thursday, September 18th at 04:09 pm PST)
-//// Line count (including blank lines and compiler line): 194
+//// File version: 2 (2025, Thursday, September 25th at 07:37 pm PST)
+//// Line count (including blank lines and compiler line): 199
 //// ----------------------------------------------------- \\\\
 
 //// End of file
